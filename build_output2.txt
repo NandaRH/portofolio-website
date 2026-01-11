@@ -1,0 +1,954 @@
+﻿success compile gatsby files - 3.072s
+
+[2K[1A[2K[Gsuccess load gatsby config - 0.064s
+
+[2K[1A[2K[Gsuccess load plugins - 1.663s
+
+[2K[1A[2K[Gsuccess onPreInit - 0.008s
+
+[2K[1A[2K[Gsuccess initialize cache - 0.105s
+
+[2K[1A[2K[Gsuccess copy gatsby files - 0.149s
+
+[2K[1A[2K[Gsuccess Compiling Gatsby Functions - 0.528s
+
+[2K[1A[2K[Gsuccess onPreBootstrap - 0.565s
+
+[2K[1A[2K[Gsuccess createSchemaCustomization - 0.008s
+
+[2K[1A[2K[Gsuccess Checking for changed pages - 0.000s
+
+[2K[1A[2K[Gsuccess source and transform nodes - 0.979s
+
+[2K[1A[2K[Gsuccess building schema - 0.229s
+
+[2K[1A[2K[Gsuccess createPages - 0.053s
+
+[2K[1A[2K[Gsuccess createPagesStatefully - 0.100s
+
+[2K[1A[2K[Ginfo Total nodes: 282, SitePage nodes: 19 (use --verbose for breakdown)
+
+[2K[1A[2K[Gsuccess Checking for changed pages - 0.000s
+
+[2K[1A[2K[Gsuccess write out redirect data - 0.001s
+
+[2K[1A[2K[Gsuccess Build manifest and related icons - 0.088s
+
+[2K[1A[2K[Gsuccess onPostBootstrap - 0.091s
+
+[2K[1A[2K[Ginfo bootstrap finished - 10.641s
+
+[2K[1A[2K[Gsuccess onPreExtractQueries - 0.001s
+
+[2K[1A[2K[Gsuccess extract queries from components - 2.411s
+
+[2K[1A[2K[Gsuccess write out requires - 0.027s
+
+[2K[1A[2K[Gsuccess Running gatsby-plugin-sharp.IMAGE_PROCESSING jobs - 0.567s - 12/12
+21.15/s
+
+[2K[1A[2K[GΓáÇ
+
+[2K[1A[2K[GYou can now view v4 in the browser.
+
+[2K[1A[2K[GΓáÇ
+
+[2K[1A[2K[G  http://localhost:8000/
+
+[2K[1A[2K[GΓáÇ
+
+[2K[1A[2K[GView GraphiQL, an in-browser IDE, to explore your site's data and schema
+
+[2K[1A[2K[GΓáÇ
+
+[2K[1A[2K[G  http://localhost:8000/___graphql
+
+[2K[1A[2K[GΓáÇ
+
+[2K[1A[2K[GNote that the development build is not optimized.
+
+[2K[1A[2K[GTo create a production build, use gatsby build
+
+[2K[1A[2K[GΓáÇ
+
+[2K[1A[2K[Gwarn D:\v4-main\src\pages\404.js
+  74:1  warning  In page templates only a default export of a valid React
+component and the named exports of a page query, getServerData, Head or config
+are allowed.
+        All other named exports will cause Fast Refresh to not preserve local
+component state and do a full refresh.
+
+        Please move your other named exports to another file. Also make sure
+that you only export page queries that use the "graphql" tag from "gatsby".
+  limited-exports-page-templates
+  75:1  warning  In page templates only a default export of a valid React
+component and the named exports of a page query, getServerData, Head or config
+are allowed.
+        All other named exports will cause Fast Refresh to not preserve local
+component state and do a full refresh.
+
+        Please move your other named exports to another file. Also make sure
+that you only export page queries that use the "graphql" tag from "gatsby".
+  limited-exports-page-templates
+
+D:\v4-main\src\pages\archive.js
+  243:1  warning  In page templates only a default export of a valid React
+component and the named exports of a page query, getServerData, Head or config
+are allowed.
+        All other named exports will cause Fast Refresh to not preserve local
+component state and do a full refresh.
+
+        Please move your other named exports to another file. Also make sure
+that you only export page queries that use the "graphql" tag from "gatsby".
+  limited-exports-page-templates
+  244:1  warning  In page templates only a default export of a valid React
+component and the named exports of a page query, getServerData, Head or config
+are allowed.
+        All other named exports will cause Fast Refresh to not preserve local
+component state and do a full refresh.
+
+        Please move your other named exports to another file. Also make sure
+that you only export page queries that use the "graphql" tag from "gatsby".
+  limited-exports-page-templates
+
+D:\v4-main\src\pages\index.js
+  30:1  warning  In page templates only a default export of a valid React
+component and the named exports of a page query, getServerData, Head or config
+are allowed.
+        All other named exports will cause Fast Refresh to not preserve local
+component state and do a full refresh.
+
+        Please move your other named exports to another file. Also make sure
+that you only export page queries that use the "graphql" tag from "gatsby".
+  limited-exports-page-templates
+
+D:\v4-main\src\pages\pensieve\index.js
+  209:1  warning  In page templates only a default export of a valid React
+component and the named exports of a page query, getServerData, Head or config
+are allowed.
+        All other named exports will cause Fast Refresh to not preserve local
+component state and do a full refresh.
+
+        Please move your other named exports to another file. Also make sure
+that you only export page queries that use the "graphql" tag from "gatsby".
+  limited-exports-page-templates
+  210:1  warning  In page templates only a default export of a valid React
+component and the named exports of a page query, getServerData, Head or config
+are allowed.
+        All other named exports will cause Fast Refresh to not preserve local
+component state and do a full refresh.
+
+        Please move your other named exports to another file. Also make sure
+that you only export page queries that use the "graphql" tag from "gatsby".
+  limited-exports-page-templates
+
+D:\v4-main\src\pages\pensieve\tags.js
+  82:1  warning  In page templates only a default export of a valid React
+component and the named exports of a page query, getServerData, Head or config
+are allowed.
+        All other named exports will cause Fast Refresh to not preserve local
+component state and do a full refresh.
+
+        Please move your other named exports to another file. Also make sure
+that you only export page queries that use the "graphql" tag from "gatsby".
+  limited-exports-page-templates
+  83:1  warning  In page templates only a default export of a valid React
+component and the named exports of a page query, getServerData, Head or config
+are allowed.
+        All other named exports will cause Fast Refresh to not preserve local
+component state and do a full refresh.
+
+        Please move your other named exports to another file. Also make sure
+that you only export page queries that use the "graphql" tag from "gatsby".
+  limited-exports-page-templates
+
+D:\v4-main\src\templates\post.js
+   99:1  warning  In page templates only a default export of a valid React
+component and the named exports of a page query, getServerData, Head or config
+are allowed.
+        All other named exports will cause Fast Refresh to not preserve local
+component state and do a full refresh.
+
+        Please move your other named exports to another file. Also make sure
+that you only export page queries that use the "graphql" tag from "gatsby".
+  limited-exports-page-templates
+  104:1  warning  In page templates only a default export of a valid React
+component and the named exports of a page query, getServerData, Head or config
+are allowed.
+        All other named exports will cause Fast Refresh to not preserve local
+component state and do a full refresh.
+
+        Please move your other named exports to another file. Also make sure
+that you only export page queries that use the "graphql" tag from "gatsby".
+  limited-exports-page-templates
+
+D:\v4-main\src\templates\tag.js
+  124:1  warning  In page templates only a default export of a valid React
+component and the named exports of a page query, getServerData, Head or config
+are allowed.
+        All other named exports will cause Fast Refresh to not preserve local
+component state and do a full refresh.
+
+        Please move your other named exports to another file. Also make sure
+that you only export page queries that use the "graphql" tag from "gatsby".
+  limited-exports-page-templates
+  129:1  warning  In page templates only a default export of a valid React
+component and the named exports of a page query, getServerData, Head or config
+are allowed.
+        All other named exports will cause Fast Refresh to not preserve local
+component state and do a full refresh.
+
+        Please move your other named exports to another file. Also make sure
+that you only export page queries that use the "graphql" tag from "gatsby".
+  limited-exports-page-templates
+
+Γ£û 13 problems (0 errors, 13 warnings)
+
+[2K[1A[2K[Gsuccess Building development bundle - 21.558s
+
+[2K[1A[2K[Gsuccess Writing page-data.json and slice-data.json files to public directory -
+0.349s - 3/19 54.40/s
+
+[2K[1A[2K[Gsuccess onPreExtractQueries - 0.002s
+
+[2K[1A[2K[G
+ ERROR #85911  GRAPHQL.EXTRACTION
+
+There was a problem parsing "D:/v4-main/src/pages/404.js"; any GraphQL
+fragments or queries in this file were not processed.
+
+This may indicate a syntax error in the code, or it may be a file type
+that Gatsby does not know how to parse.
+
+File: src\pages\404.js
+
+
+[2K[1A[2K[Gfailed extract queries from components - 0.129s
+
+[2K[1A[2K[Gsuccess write out requires - 0.025s
+
+[2K[1A[2K[Gwarn D:\v4-main\src\pages\archive.js
+  243:1  warning  In page templates only a default export of a valid React
+component and the named exports of a page query, getServerData, Head or config
+are allowed.
+        All other named exports will cause Fast Refresh to not preserve local
+component state and do a full refresh.
+
+        Please move your other named exports to another file. Also make sure
+that you only export page queries that use the "graphql" tag from "gatsby".
+  limited-exports-page-templates
+  244:1  warning  In page templates only a default export of a valid React
+component and the named exports of a page query, getServerData, Head or config
+are allowed.
+        All other named exports will cause Fast Refresh to not preserve local
+component state and do a full refresh.
+
+        Please move your other named exports to another file. Also make sure
+that you only export page queries that use the "graphql" tag from "gatsby".
+  limited-exports-page-templates
+
+D:\v4-main\src\pages\index.js
+  30:1  warning  In page templates only a default export of a valid React
+component and the named exports of a page query, getServerData, Head or config
+are allowed.
+        All other named exports will cause Fast Refresh to not preserve local
+component state and do a full refresh.
+
+        Please move your other named exports to another file. Also make sure
+that you only export page queries that use the "graphql" tag from "gatsby".
+  limited-exports-page-templates
+
+D:\v4-main\src\pages\pensieve\index.js
+  209:1  warning  In page templates only a default export of a valid React
+component and the named exports of a page query, getServerData, Head or config
+are allowed.
+        All other named exports will cause Fast Refresh to not preserve local
+component state and do a full refresh.
+
+        Please move your other named exports to another file. Also make sure
+that you only export page queries that use the "graphql" tag from "gatsby".
+  limited-exports-page-templates
+  210:1  warning  In page templates only a default export of a valid React
+component and the named exports of a page query, getServerData, Head or config
+are allowed.
+        All other named exports will cause Fast Refresh to not preserve local
+component state and do a full refresh.
+
+        Please move your other named exports to another file. Also make sure
+that you only export page queries that use the "graphql" tag from "gatsby".
+  limited-exports-page-templates
+
+D:\v4-main\src\pages\pensieve\tags.js
+  82:1  warning  In page templates only a default export of a valid React
+component and the named exports of a page query, getServerData, Head or config
+are allowed.
+        All other named exports will cause Fast Refresh to not preserve local
+component state and do a full refresh.
+
+        Please move your other named exports to another file. Also make sure
+that you only export page queries that use the "graphql" tag from "gatsby".
+  limited-exports-page-templates
+  83:1  warning  In page templates only a default export of a valid React
+component and the named exports of a page query, getServerData, Head or config
+are allowed.
+        All other named exports will cause Fast Refresh to not preserve local
+component state and do a full refresh.
+
+        Please move your other named exports to another file. Also make sure
+that you only export page queries that use the "graphql" tag from "gatsby".
+  limited-exports-page-templates
+
+D:\v4-main\src\templates\post.js
+   99:1  warning  In page templates only a default export of a valid React
+component and the named exports of a page query, getServerData, Head or config
+are allowed.
+        All other named exports will cause Fast Refresh to not preserve local
+component state and do a full refresh.
+
+        Please move your other named exports to another file. Also make sure
+that you only export page queries that use the "graphql" tag from "gatsby".
+  limited-exports-page-templates
+  104:1  warning  In page templates only a default export of a valid React
+component and the named exports of a page query, getServerData, Head or config
+are allowed.
+        All other named exports will cause Fast Refresh to not preserve local
+component state and do a full refresh.
+
+        Please move your other named exports to another file. Also make sure
+that you only export page queries that use the "graphql" tag from "gatsby".
+  limited-exports-page-templates
+
+D:\v4-main\src\templates\tag.js
+  124:1  warning  In page templates only a default export of a valid React
+component and the named exports of a page query, getServerData, Head or config
+are allowed.
+        All other named exports will cause Fast Refresh to not preserve local
+component state and do a full refresh.
+
+        Please move your other named exports to another file. Also make sure
+that you only export page queries that use the "graphql" tag from "gatsby".
+  limited-exports-page-templates
+  129:1  warning  In page templates only a default export of a valid React
+component and the named exports of a page query, getServerData, Head or config
+are allowed.
+        All other named exports will cause Fast Refresh to not preserve local
+component state and do a full refresh.
+
+        Please move your other named exports to another file. Also make sure
+that you only export page queries that use the "graphql" tag from "gatsby".
+  limited-exports-page-templates
+
+Γ£û 11 problems (0 errors, 11 warnings)
+
+[2K[1A[2K[G
+ ERROR #98123  WEBPACK.DEVELOP
+
+Generating development JavaScript bundle failed
+
+D:\v4-main\src\pages\404.js: Identifier 'Head' has already been declared.
+(74:13)
+
+[0m [90m 72 |[39m [36mexport[39m [36mdefault[39m [33mNotFoundPage[39m[33m;[39m
+ [90m 73 |[39m
+[31m[1m>[22m[39m[90m 74 |[39m [36mexport[39m [36mconst[39m [33mHead[39m [33m=[39m () [33m=>[39m [33m<[39m[33mHeadComponent[39m title[33m=[39m[32m"Page Not Found"[39m [33m/[39m[33m>[39m[33m;[39m
+ [90m    |[39m              [31m[1m^[22m[39m
+ [90m 75 |[39m[0m
+
+File: src\pages\404.js?export=default:74:13
+
+
+[2K[1A[2K[G
+ ERROR #98123  WEBPACK.DEVELOP
+
+Generating development JavaScript bundle failed
+
+
+D:\v4-main\src\pages\404.js
+  74:13  error  Parsing error: Identifier 'Head' has already been declared.
+(74:13)
+
+Γ£û 1 problem (1 error, 0 warnings)
+
+
+
+[2K[1A[2K[Gfailed Re-building development bundle - 0.244s
+
+[2K[1A[2K[G[1m[31mERROR[39m[22m in [1m./src/pages/404.js?export=default[39m[22m
+Module build failed (from ./node_modules/gatsby/dist/utils/babel-loader.js):
+SyntaxError: D:\v4-main\src\pages\404.js: Identifier 'Head' has already been
+declared. (74:13)
+
+[0m [90m 72 |[39m [36mexport[39m [36mdefault[39m [33mNotFoundPage[39m[33m;[39m
+ [90m 73 |[39m
+[31m[1m>[22m[39m[90m 74 |[39m [36mexport[39m [36mconst[39m [33mHead[39m [33m=[39m () [33m=>[39m [33m<[39m[33mHeadComponent[39m title[33m=[39m[32m"Page Not Found"[39m [33m/[39m[33m>[39m[33m;[39m
+ [90m    |[39m              [31m[1m^[22m[39m
+ [90m 75 |[39m[0m
+    at constructor (D:\v4-main\node_modules\@babel\parser\lib\index.js:367:19)
+    at JSXParserMixin.raise
+(D:\v4-main\node_modules\@babel\parser\lib\index.js:6624:19)
+    at ScopeHandler.checkRedeclarationInScope
+(D:\v4-main\node_modules\@babel\parser\lib\index.js:1646:19)
+    at ScopeHandler.declareName
+(D:\v4-main\node_modules\@babel\parser\lib\index.js:1612:12)
+    at JSXParserMixin.declareNameFromIdentifier
+(D:\v4-main\node_modules\@babel\parser\lib\index.js:7594:16)
+    at JSXParserMixin.checkIdentifier
+(D:\v4-main\node_modules\@babel\parser\lib\index.js:7590:12)
+    at JSXParserMixin.checkLVal
+(D:\v4-main\node_modules\@babel\parser\lib\index.js:7527:12)
+    at JSXParserMixin.parseVarId
+(D:\v4-main\node_modules\@babel\parser\lib\index.js:13488:10)
+    at JSXParserMixin.parseVar
+(D:\v4-main\node_modules\@babel\parser\lib\index.js:13459:12)
+    at JSXParserMixin.parseVarStatement
+(D:\v4-main\node_modules\@babel\parser\lib\index.js:13306:10)
+    at JSXParserMixin.parseStatementContent
+(D:\v4-main\node_modules\@babel\parser\lib\index.js:12927:23)
+    at JSXParserMixin.parseStatementLike
+(D:\v4-main\node_modules\@babel\parser\lib\index.js:12843:17)
+    at JSXParserMixin.parseStatementListItem
+(D:\v4-main\node_modules\@babel\parser\lib\index.js:12823:17)
+    at JSXParserMixin.parseExportDeclaration
+(D:\v4-main\node_modules\@babel\parser\lib\index.js:14010:17)
+    at JSXParserMixin.maybeParseExportDeclaration
+(D:\v4-main\node_modules\@babel\parser\lib\index.js:13969:31)
+    at JSXParserMixin.parseExport
+(D:\v4-main\node_modules\@babel\parser\lib\index.js:13888:29)
+    at JSXParserMixin.parseStatementContent
+(D:\v4-main\node_modules\@babel\parser\lib\index.js:12954:27)
+    at JSXParserMixin.parseStatementLike
+(D:\v4-main\node_modules\@babel\parser\lib\index.js:12843:17)
+    at JSXParserMixin.parseModuleItem
+(D:\v4-main\node_modules\@babel\parser\lib\index.js:12820:17)
+    at JSXParserMixin.parseBlockOrModuleBlockBody
+(D:\v4-main\node_modules\@babel\parser\lib\index.js:13392:36)
+    at JSXParserMixin.parseBlockBody
+(D:\v4-main\node_modules\@babel\parser\lib\index.js:13385:10)
+    at JSXParserMixin.parseProgram
+(D:\v4-main\node_modules\@babel\parser\lib\index.js:12698:10)
+    at JSXParserMixin.parseTopLevel
+(D:\v4-main\node_modules\@babel\parser\lib\index.js:12688:25)
+    at JSXParserMixin.parse
+(D:\v4-main\node_modules\@babel\parser\lib\index.js:14568:25)
+    at parse (D:\v4-main\node_modules\@babel\parser\lib\index.js:14581:26)
+    at parser (D:\v4-main\node_modules\@babel\core\lib\parser\index.js:41:34)
+    at parser.next (<anonymous>)
+    at normalizeFile
+(D:\v4-main\node_modules\@babel\core\lib\transformation\normalize-file.js:64:37)
+    at normalizeFile.next (<anonymous>)
+    at run
+(D:\v4-main\node_modules\@babel\core\lib\transformation\index.js:22:50)
+    at run.next (<anonymous>)
+    at transform (D:\v4-main\node_modules\@babel\core\lib\transform.js:22:33)
+    at transform.next (<anonymous>)
+    at step (D:\v4-main\node_modules\gensync\index.js:261:32)
+    at D:\v4-main\node_modules\gensync\index.js:273:13
+    at async.call.result.err.err
+(D:\v4-main\node_modules\gensync\index.js:223:11)
+ @ ./.cache/_this_is_virtual_fs_path_/$virtual/async-requires.js 5:40-147
+ @ ./.cache/app.js 14:0-52 28:87-32:1 31:29-42 34:29-42 28:0-32:2
+
+[1m[31mERROR[39m[22m in [1m
+D:\v4-main\src\pages\404.js
+  74:13  [1m[31merror[39m[22m[1m  Parsing [1m[31merror[39m[22m[1m: Identifier 'Head' has already been declared. [22m
+[1m(74:13)
+
+Γ£û 1 problem (1 [1m[31merror[39m[22m[1m, 0 warnings)
+[39m[22m
+
+[1mdevelop[39m[22m compiled with [1m[31m2 errors[39m[22m
+
+[2K[1A[2K[Gsuccess Writing page-data.json and slice-data.json files to public directory -
+0.056s - 0/16 283.63/s
+
+[2K[1A[2K[Gsuccess onPreExtractQueries - 0.001s
+
+[2K[1A[2K[Gsuccess extract queries from components - 0.113s
+
+[2K[1A[2K[Gsuccess write out requires - 0.014s
+
+[2K[1A[2K[Gwarn D:\v4-main\src\pages\archive.js
+  243:1  warning  In page templates only a default export of a valid React
+component and the named exports of a page query, getServerData, Head or config
+are allowed.
+        All other named exports will cause Fast Refresh to not preserve local
+component state and do a full refresh.
+
+        Please move your other named exports to another file. Also make sure
+that you only export page queries that use the "graphql" tag from "gatsby".
+  limited-exports-page-templates
+  244:1  warning  In page templates only a default export of a valid React
+component and the named exports of a page query, getServerData, Head or config
+are allowed.
+        All other named exports will cause Fast Refresh to not preserve local
+component state and do a full refresh.
+
+        Please move your other named exports to another file. Also make sure
+that you only export page queries that use the "graphql" tag from "gatsby".
+  limited-exports-page-templates
+
+D:\v4-main\src\pages\index.js
+  30:1  warning  In page templates only a default export of a valid React
+component and the named exports of a page query, getServerData, Head or config
+are allowed.
+        All other named exports will cause Fast Refresh to not preserve local
+component state and do a full refresh.
+
+        Please move your other named exports to another file. Also make sure
+that you only export page queries that use the "graphql" tag from "gatsby".
+  limited-exports-page-templates
+
+D:\v4-main\src\pages\pensieve\index.js
+  209:1  warning  In page templates only a default export of a valid React
+component and the named exports of a page query, getServerData, Head or config
+are allowed.
+        All other named exports will cause Fast Refresh to not preserve local
+component state and do a full refresh.
+
+        Please move your other named exports to another file. Also make sure
+that you only export page queries that use the "graphql" tag from "gatsby".
+  limited-exports-page-templates
+  210:1  warning  In page templates only a default export of a valid React
+component and the named exports of a page query, getServerData, Head or config
+are allowed.
+        All other named exports will cause Fast Refresh to not preserve local
+component state and do a full refresh.
+
+        Please move your other named exports to another file. Also make sure
+that you only export page queries that use the "graphql" tag from "gatsby".
+  limited-exports-page-templates
+
+D:\v4-main\src\pages\pensieve\tags.js
+  82:1  warning  In page templates only a default export of a valid React
+component and the named exports of a page query, getServerData, Head or config
+are allowed.
+        All other named exports will cause Fast Refresh to not preserve local
+component state and do a full refresh.
+
+        Please move your other named exports to another file. Also make sure
+that you only export page queries that use the "graphql" tag from "gatsby".
+  limited-exports-page-templates
+  83:1  warning  In page templates only a default export of a valid React
+component and the named exports of a page query, getServerData, Head or config
+are allowed.
+        All other named exports will cause Fast Refresh to not preserve local
+component state and do a full refresh.
+
+        Please move your other named exports to another file. Also make sure
+that you only export page queries that use the "graphql" tag from "gatsby".
+  limited-exports-page-templates
+
+D:\v4-main\src\templates\post.js
+   99:1  warning  In page templates only a default export of a valid React
+component and the named exports of a page query, getServerData, Head or config
+are allowed.
+        All other named exports will cause Fast Refresh to not preserve local
+component state and do a full refresh.
+
+        Please move your other named exports to another file. Also make sure
+that you only export page queries that use the "graphql" tag from "gatsby".
+  limited-exports-page-templates
+  104:1  warning  In page templates only a default export of a valid React
+component and the named exports of a page query, getServerData, Head or config
+are allowed.
+        All other named exports will cause Fast Refresh to not preserve local
+component state and do a full refresh.
+
+        Please move your other named exports to another file. Also make sure
+that you only export page queries that use the "graphql" tag from "gatsby".
+  limited-exports-page-templates
+
+D:\v4-main\src\templates\tag.js
+  124:1  warning  In page templates only a default export of a valid React
+component and the named exports of a page query, getServerData, Head or config
+are allowed.
+        All other named exports will cause Fast Refresh to not preserve local
+component state and do a full refresh.
+
+        Please move your other named exports to another file. Also make sure
+that you only export page queries that use the "graphql" tag from "gatsby".
+  limited-exports-page-templates
+  129:1  warning  In page templates only a default export of a valid React
+component and the named exports of a page query, getServerData, Head or config
+are allowed.
+        All other named exports will cause Fast Refresh to not preserve local
+component state and do a full refresh.
+
+        Please move your other named exports to another file. Also make sure
+that you only export page queries that use the "graphql" tag from "gatsby".
+  limited-exports-page-templates
+
+Γ£û 11 problems (0 errors, 11 warnings)
+
+[2K[1A[2K[Gsuccess Re-building development bundle - 0.285s
+
+[2K[1A[2K[Gsuccess Writing page-data.json and slice-data.json files to public directory -
+0.013s - 0/16 1221.00/s
+
+[2K[1A[2K[Gsuccess onPreExtractQueries - 0.001s
+
+[2K[1A[2K[Gsuccess extract queries from components - 0.109s
+
+[2K[1A[2K[Gsuccess write out requires - 0.001s
+
+[2K[1A[2K[Gwarn D:\v4-main\src\pages\index.js
+  30:1  warning  In page templates only a default export of a valid React
+component and the named exports of a page query, getServerData, Head or config
+are allowed.
+        All other named exports will cause Fast Refresh to not preserve local
+component state and do a full refresh.
+
+        Please move your other named exports to another file. Also make sure
+that you only export page queries that use the "graphql" tag from "gatsby".
+  limited-exports-page-templates
+
+D:\v4-main\src\pages\pensieve\index.js
+  209:1  warning  In page templates only a default export of a valid React
+component and the named exports of a page query, getServerData, Head or config
+are allowed.
+        All other named exports will cause Fast Refresh to not preserve local
+component state and do a full refresh.
+
+        Please move your other named exports to another file. Also make sure
+that you only export page queries that use the "graphql" tag from "gatsby".
+  limited-exports-page-templates
+  210:1  warning  In page templates only a default export of a valid React
+component and the named exports of a page query, getServerData, Head or config
+are allowed.
+        All other named exports will cause Fast Refresh to not preserve local
+component state and do a full refresh.
+
+        Please move your other named exports to another file. Also make sure
+that you only export page queries that use the "graphql" tag from "gatsby".
+  limited-exports-page-templates
+
+D:\v4-main\src\pages\pensieve\tags.js
+  82:1  warning  In page templates only a default export of a valid React
+component and the named exports of a page query, getServerData, Head or config
+are allowed.
+        All other named exports will cause Fast Refresh to not preserve local
+component state and do a full refresh.
+
+        Please move your other named exports to another file. Also make sure
+that you only export page queries that use the "graphql" tag from "gatsby".
+  limited-exports-page-templates
+  83:1  warning  In page templates only a default export of a valid React
+component and the named exports of a page query, getServerData, Head or config
+are allowed.
+        All other named exports will cause Fast Refresh to not preserve local
+component state and do a full refresh.
+
+        Please move your other named exports to another file. Also make sure
+that you only export page queries that use the "graphql" tag from "gatsby".
+  limited-exports-page-templates
+
+D:\v4-main\src\templates\post.js
+   99:1  warning  In page templates only a default export of a valid React
+component and the named exports of a page query, getServerData, Head or config
+are allowed.
+        All other named exports will cause Fast Refresh to not preserve local
+component state and do a full refresh.
+
+        Please move your other named exports to another file. Also make sure
+that you only export page queries that use the "graphql" tag from "gatsby".
+  limited-exports-page-templates
+  104:1  warning  In page templates only a default export of a valid React
+component and the named exports of a page query, getServerData, Head or config
+are allowed.
+        All other named exports will cause Fast Refresh to not preserve local
+component state and do a full refresh.
+
+        Please move your other named exports to another file. Also make sure
+that you only export page queries that use the "graphql" tag from "gatsby".
+  limited-exports-page-templates
+
+D:\v4-main\src\templates\tag.js
+  124:1  warning  In page templates only a default export of a valid React
+component and the named exports of a page query, getServerData, Head or config
+are allowed.
+        All other named exports will cause Fast Refresh to not preserve local
+component state and do a full refresh.
+
+        Please move your other named exports to another file. Also make sure
+that you only export page queries that use the "graphql" tag from "gatsby".
+  limited-exports-page-templates
+  129:1  warning  In page templates only a default export of a valid React
+component and the named exports of a page query, getServerData, Head or config
+are allowed.
+        All other named exports will cause Fast Refresh to not preserve local
+component state and do a full refresh.
+
+        Please move your other named exports to another file. Also make sure
+that you only export page queries that use the "graphql" tag from "gatsby".
+  limited-exports-page-templates
+
+Γ£û 9 problems (0 errors, 9 warnings)
+
+[2K[1A[2K[Gsuccess Re-building development bundle - 0.308s
+
+[2K[1A[2K[Gsuccess Writing page-data.json and slice-data.json files to public directory -
+0.014s - 0/16 1122.52/s
+
+[2K[1A[2K[Gsuccess onPreExtractQueries - 0.001s
+
+[2K[1A[2K[Gsuccess extract queries from components - 0.104s
+
+[2K[1A[2K[Gsuccess write out requires - 0.000s
+
+[2K[1A[2K[Gwarn D:\v4-main\src\pages\pensieve\index.js
+  209:1  warning  In page templates only a default export of a valid React
+component and the named exports of a page query, getServerData, Head or config
+are allowed.
+        All other named exports will cause Fast Refresh to not preserve local
+component state and do a full refresh.
+
+        Please move your other named exports to another file. Also make sure
+that you only export page queries that use the "graphql" tag from "gatsby".
+  limited-exports-page-templates
+  210:1  warning  In page templates only a default export of a valid React
+component and the named exports of a page query, getServerData, Head or config
+are allowed.
+        All other named exports will cause Fast Refresh to not preserve local
+component state and do a full refresh.
+
+        Please move your other named exports to another file. Also make sure
+that you only export page queries that use the "graphql" tag from "gatsby".
+  limited-exports-page-templates
+
+D:\v4-main\src\pages\pensieve\tags.js
+  82:1  warning  In page templates only a default export of a valid React
+component and the named exports of a page query, getServerData, Head or config
+are allowed.
+        All other named exports will cause Fast Refresh to not preserve local
+component state and do a full refresh.
+
+        Please move your other named exports to another file. Also make sure
+that you only export page queries that use the "graphql" tag from "gatsby".
+  limited-exports-page-templates
+  83:1  warning  In page templates only a default export of a valid React
+component and the named exports of a page query, getServerData, Head or config
+are allowed.
+        All other named exports will cause Fast Refresh to not preserve local
+component state and do a full refresh.
+
+        Please move your other named exports to another file. Also make sure
+that you only export page queries that use the "graphql" tag from "gatsby".
+  limited-exports-page-templates
+
+D:\v4-main\src\templates\post.js
+   99:1  warning  In page templates only a default export of a valid React
+component and the named exports of a page query, getServerData, Head or config
+are allowed.
+        All other named exports will cause Fast Refresh to not preserve local
+component state and do a full refresh.
+
+        Please move your other named exports to another file. Also make sure
+that you only export page queries that use the "graphql" tag from "gatsby".
+  limited-exports-page-templates
+  104:1  warning  In page templates only a default export of a valid React
+component and the named exports of a page query, getServerData, Head or config
+are allowed.
+        All other named exports will cause Fast Refresh to not preserve local
+component state and do a full refresh.
+
+        Please move your other named exports to another file. Also make sure
+that you only export page queries that use the "graphql" tag from "gatsby".
+  limited-exports-page-templates
+
+D:\v4-main\src\templates\tag.js
+  124:1  warning  In page templates only a default export of a valid React
+component and the named exports of a page query, getServerData, Head or config
+are allowed.
+        All other named exports will cause Fast Refresh to not preserve local
+component state and do a full refresh.
+
+        Please move your other named exports to another file. Also make sure
+that you only export page queries that use the "graphql" tag from "gatsby".
+  limited-exports-page-templates
+  129:1  warning  In page templates only a default export of a valid React
+component and the named exports of a page query, getServerData, Head or config
+are allowed.
+        All other named exports will cause Fast Refresh to not preserve local
+component state and do a full refresh.
+
+        Please move your other named exports to another file. Also make sure
+that you only export page queries that use the "graphql" tag from "gatsby".
+  limited-exports-page-templates
+
+Γ£û 8 problems (0 errors, 8 warnings)
+
+[2K[1A[2K[Gsuccess Re-building development bundle - 0.241s
+
+[2K[1A[2K[Gsuccess Writing page-data.json and slice-data.json files to public directory -
+0.029s - 0/16 550.44/s
+
+[2K[1A[2K[Gsuccess onPreExtractQueries - 0.001s
+
+[2K[1A[2K[Gsuccess extract queries from components - 0.114s
+
+[2K[1A[2K[Gsuccess write out requires - 0.000s
+
+[2K[1A[2K[Gwarn D:\v4-main\src\pages\pensieve\tags.js
+  82:1  warning  In page templates only a default export of a valid React
+component and the named exports of a page query, getServerData, Head or config
+are allowed.
+        All other named exports will cause Fast Refresh to not preserve local
+component state and do a full refresh.
+
+        Please move your other named exports to another file. Also make sure
+that you only export page queries that use the "graphql" tag from "gatsby".
+  limited-exports-page-templates
+  83:1  warning  In page templates only a default export of a valid React
+component and the named exports of a page query, getServerData, Head or config
+are allowed.
+        All other named exports will cause Fast Refresh to not preserve local
+component state and do a full refresh.
+
+        Please move your other named exports to another file. Also make sure
+that you only export page queries that use the "graphql" tag from "gatsby".
+  limited-exports-page-templates
+
+D:\v4-main\src\templates\post.js
+   99:1  warning  In page templates only a default export of a valid React
+component and the named exports of a page query, getServerData, Head or config
+are allowed.
+        All other named exports will cause Fast Refresh to not preserve local
+component state and do a full refresh.
+
+        Please move your other named exports to another file. Also make sure
+that you only export page queries that use the "graphql" tag from "gatsby".
+  limited-exports-page-templates
+  104:1  warning  In page templates only a default export of a valid React
+component and the named exports of a page query, getServerData, Head or config
+are allowed.
+        All other named exports will cause Fast Refresh to not preserve local
+component state and do a full refresh.
+
+        Please move your other named exports to another file. Also make sure
+that you only export page queries that use the "graphql" tag from "gatsby".
+  limited-exports-page-templates
+
+D:\v4-main\src\templates\tag.js
+  124:1  warning  In page templates only a default export of a valid React
+component and the named exports of a page query, getServerData, Head or config
+are allowed.
+        All other named exports will cause Fast Refresh to not preserve local
+component state and do a full refresh.
+
+        Please move your other named exports to another file. Also make sure
+that you only export page queries that use the "graphql" tag from "gatsby".
+  limited-exports-page-templates
+  129:1  warning  In page templates only a default export of a valid React
+component and the named exports of a page query, getServerData, Head or config
+are allowed.
+        All other named exports will cause Fast Refresh to not preserve local
+component state and do a full refresh.
+
+        Please move your other named exports to another file. Also make sure
+that you only export page queries that use the "graphql" tag from "gatsby".
+  limited-exports-page-templates
+
+Γ£û 6 problems (0 errors, 6 warnings)
+
+[2K[1A[2K[Gsuccess Re-building development bundle - 0.257s
+
+[2K[1A[2K[Gsuccess Writing page-data.json and slice-data.json files to public directory -
+0.016s - 0/16 1007.28/s
+
+[2K[1A[2K[Gsuccess onPreExtractQueries - 0.001s
+
+[2K[1A[2K[Gsuccess extract queries from components - 0.102s
+
+[2K[1A[2K[Gsuccess write out requires - 0.001s
+
+[2K[1A[2K[Gwarn D:\v4-main\src\templates\post.js
+   99:1  warning  In page templates only a default export of a valid React
+component and the named exports of a page query, getServerData, Head or config
+are allowed.
+        All other named exports will cause Fast Refresh to not preserve local
+component state and do a full refresh.
+
+        Please move your other named exports to another file. Also make sure
+that you only export page queries that use the "graphql" tag from "gatsby".
+  limited-exports-page-templates
+  104:1  warning  In page templates only a default export of a valid React
+component and the named exports of a page query, getServerData, Head or config
+are allowed.
+        All other named exports will cause Fast Refresh to not preserve local
+component state and do a full refresh.
+
+        Please move your other named exports to another file. Also make sure
+that you only export page queries that use the "graphql" tag from "gatsby".
+  limited-exports-page-templates
+
+D:\v4-main\src\templates\tag.js
+  124:1  warning  In page templates only a default export of a valid React
+component and the named exports of a page query, getServerData, Head or config
+are allowed.
+        All other named exports will cause Fast Refresh to not preserve local
+component state and do a full refresh.
+
+        Please move your other named exports to another file. Also make sure
+that you only export page queries that use the "graphql" tag from "gatsby".
+  limited-exports-page-templates
+  129:1  warning  In page templates only a default export of a valid React
+component and the named exports of a page query, getServerData, Head or config
+are allowed.
+        All other named exports will cause Fast Refresh to not preserve local
+component state and do a full refresh.
+
+        Please move your other named exports to another file. Also make sure
+that you only export page queries that use the "graphql" tag from "gatsby".
+  limited-exports-page-templates
+
+Γ£û 4 problems (0 errors, 4 warnings)
+
+[2K[1A[2K[Gsuccess Re-building development bundle - 0.197s
+
+[2K[1A[2K[Gsuccess Writing page-data.json and slice-data.json files to public directory -
+0.013s - 0/16 1241.52/s
+
+[2K[1A[2K[Gsuccess onPreExtractQueries - 0.004s
+
+[2K[1A[2K[Gsuccess extract queries from components - 0.116s
+
+[2K[1A[2K[Gsuccess write out requires - 0.000s
+
+[2K[1A[2K[Gwarn D:\v4-main\src\templates\tag.js
+  124:1  warning  In page templates only a default export of a valid React
+component and the named exports of a page query, getServerData, Head or config
+are allowed.
+        All other named exports will cause Fast Refresh to not preserve local
+component state and do a full refresh.
+
+        Please move your other named exports to another file. Also make sure
+that you only export page queries that use the "graphql" tag from "gatsby".
+  limited-exports-page-templates
+  129:1  warning  In page templates only a default export of a valid React
+component and the named exports of a page query, getServerData, Head or config
+are allowed.
+        All other named exports will cause Fast Refresh to not preserve local
+component state and do a full refresh.
+
+        Please move your other named exports to another file. Also make sure
+that you only export page queries that use the "graphql" tag from "gatsby".
+  limited-exports-page-templates
+
+Γ£û 2 problems (0 errors, 2 warnings)
+
+[2K[1A[2K[Gsuccess Re-building development bundle - 0.555s
+
+[2K[1A[2K[Gsuccess Writing page-data.json and slice-data.json files to public directory -
+0.015s - 0/16 1070.69/s
+
+[2K[1A[2K[Gsuccess onPreExtractQueries - 0.001s
+
+[2K[1A[2K[Gsuccess extract queries from components - 0.109s
+
+[2K[1A[2K[Gsuccess write out requires - 0.000s
+
+[2K[1A[2K[Gsuccess Re-building development bundle - 0.201s
+
+[2K[1A[2K[Gsuccess Writing page-data.json and slice-data.json files to public directory -
+0.015s - 0/16 1053.56/s
+
