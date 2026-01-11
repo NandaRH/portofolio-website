@@ -2,7 +2,7 @@
 date: '1'
 title: 'Fokus AI'
 cover: './FokusAI.png'
-external: 'https://fokus-ai.com'
+external: 'https://www.fokusai.fun/landing'
 tech:
 - Next.js
 - RPA / Automation
