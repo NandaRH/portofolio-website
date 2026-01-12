@@ -3,7 +3,7 @@ date: '4'
 title: 'AI Web Developer & Content Creator'
 company: 'FokusAI'
 location: 'Bandung, Indonesia'
-range: 'Nov 2025 - Present'
+range: 'Oct 2025 - Present'
 url: 'https://www.fokusai.fun/landing'
 ---
 

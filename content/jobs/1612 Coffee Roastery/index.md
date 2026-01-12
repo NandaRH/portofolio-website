@@ -3,7 +3,7 @@ date: '3'
 title: 'Web Developer & Content Creator'
 company: '1612 Coffee Roastery'
 location: 'Bandung, Indonesia'
-range: 'Nov 2025'
+range: 'Oct 2025'
 ---
 
 - Architect and develop a full-stack web platform to manage online orders, roasting services, and shipping logistics, significantly improving operational efficiency.
