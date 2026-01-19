@@ -149,7 +149,7 @@ const About = () => {
 
             <p>
               I also recently{' '}
-              <a href="https://www.fokusai.fun/landing">
+              <a href="">
                 launched a Website
               </a>{' '}
               that covers everything you need to Generate Video using AI and enerate Image using AI.
