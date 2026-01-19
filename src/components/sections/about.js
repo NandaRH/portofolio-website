@@ -147,14 +147,6 @@ const About = () => {
               full-stack digital solutions at FokusAI to streamline their operations.
             </p>
 
-            <p>
-              I also recently{' '}
-              <a href="">
-                launched a Website
-              </a>{' '}
-              that covers everything you need to Generate Video using AI and enerate Image using AI.
-            </p>
-
             <p>Here are a few technologies I’ve been working with recently:</p>
           </div>
 
